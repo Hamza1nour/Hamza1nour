@@ -30,10 +30,13 @@
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzanour4455&show_icons=true&theme=tokyonight" alt="Hamza Nour's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzanour4455&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamza1nour&show_icons=true&theme=tokyonight" alt="Hamza Nour's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza1nour&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
+
 
 ---
 
