@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/hamzanour4455/hamzanour4455/blob/main/assets/banner.gif)]()
+[![MasterHead](ddr93fw-5011b54c-a4f3-425c-845b-177bac15db18.gif)]()
 
 <h1 align="center">Hey, I'm <strong>Hamza Nour</strong> 👋</h1>
 <h4 align="center">Building real-world solutions with Artificial Intelligence, one project at a time 🤖</h4>
