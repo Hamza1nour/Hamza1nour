@@ -31,7 +31,7 @@
 
 
 ## 📈 GitHub Stats
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hamza1nour&label=Profile%20views&color=0e75b6&style=flat" alt="Hamza nour" /> </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hamza1nour&show_icons=true&theme=tokyonight" alt="Hamza Nour's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza1nour&layout=compact&theme=tokyonight" alt="Top Langs" />
